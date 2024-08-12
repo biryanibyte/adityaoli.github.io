@@ -63,7 +63,67 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "artifactory",
-      fontAwesomeClassname: ""
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "awslambda",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "dynatrace",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "grafana",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "helmcolor",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "jenkinsoriginal",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "jfrog",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "kubernetes",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "pipeline",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "postman",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "prometheus",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "redhat",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "splunk",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "terraformcolor",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "vault",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "vmware",
+      fontAwesomeClassname: "" // Using custom SVG
     },
     {
       skillName: "python",
