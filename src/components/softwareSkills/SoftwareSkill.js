@@ -2,7 +2,13 @@ import React from "react";
 import "./SoftwareSkill.scss";
 import {skillsSection} from "../../portfolio";
 
+// Import custom SVG icons
+import artifactory from "../../assets/icons/artifactory.svg";
+
 export default function SoftwareSkill() {
+  const svgIcons = {
+    "artifactory": artifactory
+  };
   return (
     <div>
       <div className="software-skills-main-div">
@@ -14,15 +20,19 @@ export default function SoftwareSkill() {
                 className="software-skill-inline"
                 name={skills.skillName}
               >
-                <i className={skills.fontAwesomeClassname}></i>
+                {skills.fontAwesomeClassname ? (
+                  <i className={skills.fontAwesomeClassname}></i>
+                ) : (
+                  <img
+                    src={svgIcons[skills.skillName]}
+                    alt={skills.skillName}
+                    className="custom-svg-icon"
+                  />
+                )}
                 <p>{skills.skillName}</p>
               </li>
             );
           })}
-          <li className="software-skill-inline">
-            <i><img class="icon" src="../../assets/icons/artifactory.svg" alt="Artifactory"/></i>
-            <p>Artifactory</p>
-          </li>
         </ul>
       </div>
     </div>

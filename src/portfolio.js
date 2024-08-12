@@ -62,6 +62,10 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "artifactory",
+      fontAwesomeClassname: ""
+    },
+    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
