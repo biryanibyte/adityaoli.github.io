@@ -7,7 +7,7 @@ import artifactory from "../../assets/icons/artifactory.svg";
 import awslambda from "../../assets/icons/aws-lambda-color.svg";
 import dynatrace from "../../assets/icons/dynatrace.svg";
 import grafana from "../../assets/icons/helm-color.svg";
-import helmcolor from "../../assets/icons/helm-color";
+import helmcolor from "../../assets/icons/helm-color.svg";
 import jenkinsoriginal from "../../assets/icons/jenkins-original.svg";
 import jfrog from "../../assets/icons/jfrog.svg";
 import kubernetes from "../../assets/icons/kubernetes.svg";
