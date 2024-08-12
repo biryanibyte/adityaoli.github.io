@@ -1,8 +1,8 @@
 .dev-icons {
   padding-left: 0;
   list-style: none;
-  margin-bottom: 0px;
-  margin-top: 0px;
+  margin-bottom: 0;
+  margin-top: 0;
   text-align: center;
 }
 
@@ -12,18 +12,21 @@
   margin-bottom: 20px;
 }
 
-.software-skill-inline > i, /* Font Awesome Icons */
-.software-skill-inline > img { /* Custom SVG Icons */
-  width: 3rem;
-  height: 3rem;
-  color: $subTitle; // For Font Awesome icons
-  fill: $subTitle;  // For custom SVG icons
+.software-skill-inline > i {
+  font-size: 2rem; /* Set consistent size for Font Awesome icons */
+  color: $subTitle;
+}
+
+.software-skill-inline > img {
+  max-width: 2rem; /* Set consistent max width for SVG icons */
+  max-height: 2rem; /* Set consistent max height for SVG icons */
+  fill: $subTitle;
 }
 
 .software-skill-inline > i:hover,
 .software-skill-inline > img:hover {
-  color: $skillsColor; // For Font Awesome icons
-  fill: $skillsColor;  // For custom SVG icons
+  color: $skillsColor;
+  fill: $skillsColor;
 }
 
 .software-skill-inline > p {

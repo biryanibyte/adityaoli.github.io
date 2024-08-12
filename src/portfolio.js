@@ -156,6 +156,22 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "consul",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "radar",
+      fontAwesomeClassname: "" // Using custom SVG
+    },
+    {
+      skillName: "python",
+      fontAwesomeClassname: "" // Using custom SVG
     }
   ],
   display: true // Set false to hide this section, defaults to true

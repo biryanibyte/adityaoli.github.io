@@ -19,6 +19,10 @@ import splunk from "../../assets/icons/splunk.svg";
 import terraformcolor from "../../assets/icons/terraform-color.svg";
 import vault from "../../assets/icons/vault.svg";
 import vmware from "../../assets/icons/vmware.svg";
+import consulcolor from "../../assets/icons/consul-color.svg";
+import git from "../../assets/icons/git.svg";
+import radar from "../../assets/icons/radar-2.svg";
+import python from "../../assets/icons/python.svg";
 
 
 export default function SoftwareSkill() {
@@ -38,7 +42,11 @@ export default function SoftwareSkill() {
     "splunk":splunk,
     "terraformcolor":terraformcolor,
     "vault":vault,
-    "vmware":vmware
+    "vmware":vmware,
+    "consul":consulcolor,
+    "git":git,
+    "radar":radar,
+    "python":python
   };
   return (
     <div>
