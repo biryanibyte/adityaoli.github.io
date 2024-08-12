@@ -19,6 +19,10 @@ export default function SoftwareSkill() {
               </li>
             );
           })}
+          <li className="software-skill-inline">
+            <i><img class="icon" src="../../assets/icons/artifactory.svg" /></i>
+            <p>Artifactory</p>
+          </li>
         </ul>
       </div>
     </div>
