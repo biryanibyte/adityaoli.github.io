@@ -20,7 +20,7 @@ export default function SoftwareSkill() {
             );
           })}
           <li className="software-skill-inline">
-            <i><img class="icon" src="../../assets/icons/artifactory.svg" /></i>
+            <i><img class="icon" src="../../assets/icons/artifactory.svg" alt="Artifactory"/></i>
             <p>Artifactory</p>
           </li>
         </ul>
