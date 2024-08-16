@@ -3,26 +3,25 @@ import "./SoftwareSkill.scss";
 import {skillsSection} from "../../portfolio";
 
 // Import custom SVG icons
-import artifactory from "../../assets/icons/artifactory.svg";
-import awslambda from "../../assets/icons/aws-lambda-color.svg";
-import dynatrace from "../../assets/icons/dynatrace.svg";
-import grafana from "../../assets/icons/grafana.svg";
-import helmcolor from "../../assets/icons/helm-color.svg";
-import jenkinsoriginal from "../../assets/icons/jenkins-original.svg";
-import jfrog from "../../assets/icons/jfrog.svg";
-import kubernetes from "../../assets/icons/kubernetes.svg";
-import pipeline from "../../assets/icons/pipeline.svg";
-import postman from "../../assets/icons/postman.svg";
-import prometheus from "../../assets/icons/prometheus.svg";
-import redhat from "../../assets/icons/redhat.svg";
-import splunk from "../../assets/icons/splunk.svg";
-import terraformcolor from "../../assets/icons/terraform-color.svg";
-import vault from "../../assets/icons/vault.svg";
-import vmware from "../../assets/icons/vmware.svg";
-import consulcolor from "../../assets/icons/consul-color.svg";
-import git from "../../assets/icons/git.svg";
-import radar from "../../assets/icons/radar-2.svg";
-import python from "../../assets/icons/python.svg";
+import artifactory from "../../assets/icons/artifactory.png";
+import awslambda from "../../assets/icons/lambda.png";
+import dynatrace from "../../assets/icons/dynatrace.png";
+import grafana from "../../assets/icons/grafana.png";
+import helmcolor from "../../assets/icons/helm.png";
+import jenkinsoriginal from "../../assets/icons/jenkins.png";
+import jfrog from "../../assets/icons/xray.png";
+import kubernetes from "../../assets/icons/kubernetes.png";
+import postman from "../../assets/icons/postman.png";
+import prometheus from "../../assets/icons/prometheus.png";
+import redhat from "../../assets/icons/redhat.png";
+import splunk from "../../assets/icons/splunk.png";
+import terraformcolor from "../../assets/icons/terraform.png";
+import vault from "../../assets/icons/vault.png";
+import vmware from "../../assets/icons/vmware.png";
+import consulcolor from "../../assets/icons/consul.png";
+import git from "../../assets/icons/git.png";
+import radar from "../../assets/icons/radar.png";
+import python from "../../assets/icons/python.png";
 
 
 export default function SoftwareSkill() {
@@ -35,7 +34,6 @@ export default function SoftwareSkill() {
     "jenkinsoriginal":jenkinsoriginal,
     "jfrog":jfrog,
     "kubernetes":kubernetes,
-    "pipeline":pipeline,
     "postman":postman,
     "prometheus":prometheus,
     "redhat":redhat,
