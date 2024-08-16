@@ -6,7 +6,7 @@ import {skillsSection} from "../../portfolio";
 import artifactory from "../../assets/icons/artifactory.svg";
 import awslambda from "../../assets/icons/aws-lambda-color.svg";
 import dynatrace from "../../assets/icons/dynatrace.svg";
-import grafana from "../../assets/icons/helm-color.svg";
+import grafana from "../../assets/icons/grafana.svg";
 import helmcolor from "../../assets/icons/helm-color.svg";
 import jenkinsoriginal from "../../assets/icons/jenkins-original.svg";
 import jfrog from "../../assets/icons/jfrog.svg";

@@ -138,10 +138,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "vmware-vsphere",
-      fontAwesomeClassname: "fab fa-server"
-    },
-    {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
     },

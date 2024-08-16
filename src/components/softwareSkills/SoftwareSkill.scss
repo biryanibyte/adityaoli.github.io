@@ -14,14 +14,15 @@
   margin-bottom: 20px;
 }
 
-.software-skill-inline > i {
-  font-size: 2rem; /* Set consistent size for Font Awesome icons */
+.software-skill-inline > i,
+.software-skill-inline > img {
+  width: 3rem; /* Set consistent width for icons */
+  height: 3rem; /* Set consistent height for icons */
+  font-size: 3rem; /* Set consistent size for Font Awesome icons */
   color: $subTitle;
 }
 
 .software-skill-inline > img {
-  max-width: 2rem; /* Set consistent max width for SVG icons */
-  max-height: 2rem; /* Set consistent max height for SVG icons */
   fill: $subTitle;
 }
 
@@ -40,10 +41,3 @@
 .software-skill-inline > img:hover ~ p {
   color: $skillsColor;
 }
-
-
-
-
-
-
-
