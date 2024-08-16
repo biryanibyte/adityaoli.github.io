@@ -10,15 +10,13 @@
 
 .software-skill-inline {
   display: inline-block;
-  // margin-right: 20px;
-  // margin-bottom: 20px;
 }
 
 .software-skill-inline > i,
 .software-skill-inline > img {
-  // width: 3rem; /* Set consistent width for icons */
-  // height: 3rem; /* Set consistent height for icons */
-  // font-size: 3rem; /* Set consistent size for Font Awesome icons */
+  width: 3rem; /* Set consistent width for icons */
+  height: 3rem; /* Set consistent height for icons */
+  font-size: 3rem; /* Set consistent size for Font Awesome icons */
   color: $subTitle;
 }
 
