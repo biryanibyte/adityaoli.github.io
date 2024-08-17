@@ -14,11 +14,13 @@
 
 .software-skill-inline > i,
 .software-skill-inline > img {
-  width: 100%; /* Adjust width by percentage */
-  height: auto; /* Maintain aspect ratio to avoid compression */
   max-width: 3rem; /* Set a maximum width for icons */
+  max-height: 3rem; /* Set a maximum height for icons */
+  width: auto; /* Allow the width to adjust automatically */
+  height: auto; /* Maintain the aspect ratio */
   font-size: 3rem; /* Set consistent size for Font Awesome icons */
   color: $subTitle;
+  object-fit: contain; /* Ensure the icon fits within the bounds without distortion */
 }
 
 .software-skill-inline > img {
