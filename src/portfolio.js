@@ -148,7 +148,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/westpac.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
       desc: "Participated in the research of XXX and published 3 papers.",
@@ -159,7 +159,7 @@ const educationInfo = {
     },
     {
       schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/westpac.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2013 - April 2017",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -239,7 +239,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/westpac.png"),
       date: "Jan 2015 – Sep 2015",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
@@ -261,7 +261,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/westpac.png"),
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -273,7 +273,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/westpac.png"),
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -300,7 +300,7 @@ const achievementSection = {
       title: "Google Code-In Finalist",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/westpac.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
