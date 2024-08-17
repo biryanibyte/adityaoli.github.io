@@ -273,39 +273,46 @@ const workExperiences = {
       ]
     },
     {
-      role: "DevOps Engineer",
+      role: "Senior Systems Engineer",
       company: "Infosys Limited",
       companylogo: require("./assets/images/infosys.jpg"),
-      date: "June 2020 – June 2021",
-      desc: "Develop and Manage Highly available Platforms.",
+      date: "March 2018 – Feb 2019",
+      desc: "Created Interactive UIs and websites, java apps and aws deployments",
       descBullets: [
-        "Develop and execute complex pipelines and infrastructure that is highly reliable, to support consistenly growing telco needs.",
-        "Manage a highly available and performant kubernetes environment.",
-        "Mentor a team to onboard onto new technologies and build better DevOps practices in terms of automations, deployments and documentations."
+        "Worked on Agile Model, developing micro services in spring boot, JUnit testing with TDD, BDD with Serenity and JBehave, code deployment using Jenkins. Postman collection and performance, load test scripting for API management. Working on API.ai, Amazon Web Services, Developing Chatbots, Automated deployment using Jenkins, Agile SAFe, SONAR, ECLEMMA, JIRA, VSTS, Git.",
+        "Provided a sandboxed solution using APIs for untrusted code execution.",
+        "HTML5, CSS3, JavaScript, JQuery. Designed Posters, banners, certificates, emails in Adobe Photoshop for the Zero Bench team."
       ]
     },
     {
-      role: "DevOps Engineer",
+      role: "Systems Engineer",
       company: "Infosys Limited",
       companylogo: require("./assets/images/infosys.jpg"),
-      date: "June 2020 – June 2021",
-      desc: "Develop and Manage Highly available Platforms.",
+      date: "July 2016 – March 2018",
+      desc: "Infosys Cornerstone Platform Development",
       descBullets: [
-        "Develop and execute complex pipelines and infrastructure that is highly reliable, to support consistenly growing telco needs.",
-        "Manage a highly available and performant kubernetes environment.",
-        "Mentor a team to onboard onto new technologies and build better DevOps practices in terms of automations, deployments and documentations."
+        "Developed a product from scratch. Handling End to End from the server to the client. Built the system on: SpringBoot, Drools, Jenkins,Nexus, ELK Stack,Apache Ignite, Apache Kafka, Git, Tensorflow, Python, HTML,CSS, Javascript, Bootstrap, Apache Flink.",
+        "Helped develop the UI for Infosys Cornerstone Platform & Created Interactive User Interfaces and websites(Js frameworks React, Knockout, Angular, etc)"
       ]
     },
     {
-      role: "DevOps Engineer",
+      role: "Infosys Intern",
       company: "Infosys Limited",
       companylogo: require("./assets/images/infosys.jpg"),
-      date: "June 2020 – June 2021",
-      desc: "Develop and Manage Highly available Platforms.",
+      date: "Jan 2016 – June 2016",
+      desc: "Learn programming and standards within organizations",
       descBullets: [
-        "Develop and execute complex pipelines and infrastructure that is highly reliable, to support consistenly growing telco needs.",
-        "Manage a highly available and performant kubernetes environment.",
-        "Mentor a team to onboard onto new technologies and build better DevOps practices in terms of automations, deployments and documentations."
+        "Designed a travel management platform using C#.Net MVC platform. User friendly front end designed in HTML5,CSS3,Bootstrap, Javascript, PHP, JQuery."
+      ]
+    },
+    {
+      role: "Intern",
+      company: "RWX Technology Limited",
+      companylogo: require("./assets/images/infosys.jpg"),
+      date: "June 2015 – Aug 2015",
+      desc: "Research on Jet tracking by a missile using the Kalman Filter",
+      descBullets: [
+        "Implemented tracking and predicting the next positions of an object in a static video using the Kalman Filter. This internship project was implemented in MATLAB and was based on studying the implementation of the Kalman Filter on bouncing bodies."
       ]
     }
   ]
