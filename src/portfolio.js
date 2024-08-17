@@ -211,14 +211,17 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Senior Platform & DevSecOps Engineer",
+      company: "Westpac New Zealand Limited",
+      companylogo: require("./assets/images/westpac.png"),
+      date: "May 2023 – Present",
+      desc: "Accountable for different technology operations, and their standardization organization wide.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Revived applications that were unstable for years. Upgraded, Maintained and Decommissioned numerous applications with an extensive blast radius. Estd cost savings of 0.25M$ per year.",
+        "Decommissioned and Migrated Entire architectures across platforms.",
+        "Redesigned applications in a cost effective way thereby reducing financial pressure on the org.",
+        "Co-Lead transformation in devops tooling, thereby stabilizing applications and enhancing reliability of critical platforms and applications. Reduced BAU timeframes from weeks to minutes.",
+        "Coached teams and lead multiple parallel projects, delivering each with 0 recorded production incidents post release."
       ]
     },
     {
