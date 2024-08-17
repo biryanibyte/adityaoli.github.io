@@ -211,7 +211,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Senior Platform & DevSecOps Engineer",
+      role: "Senior DevSecOps Engineer",
       company: "Westpac New Zealand Limited",
       companylogo: require("./assets/images/westpac.png"),
       date: "May 2023 – Present",
@@ -225,11 +225,16 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Senior Platform Engineer",
+      company: "Westpac New Zealand Limited",
+      companylogo: require("./assets/images/westpac.png"),
+      date: "May 2022 – May 2023",
+      desc: "Lead the Tooling Squad for DevOps Tooling.",
+      descBullets: [
+        "Responsible for operational availability of Confluence, Bitbucket, Chef, Artifactory, Xray and Hashicorp Vault.",
+        "Built Documentation and processes for SLA, SLOs and application architecture and maintenance, something that was non existent.",
+        "Designed Architectures and Built applications for various platforms."
+      ]
     },
     {
       role: "Software Engineer Intern",
