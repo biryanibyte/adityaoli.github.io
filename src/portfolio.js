@@ -219,9 +219,7 @@ const workExperiences = {
       descBullets: [
         "Revived applications that were unstable for years. Upgraded, Maintained and Decommissioned numerous applications with an extensive blast radius. Estd cost savings of 0.25M$ per year.",
         "Decommissioned and Migrated Entire architectures across platforms.",
-        "Redesigned applications in a cost effective way thereby reducing financial pressure on the org.",
-        "Co-Lead transformation in devops tooling, thereby stabilizing applications and enhancing reliability of critical platforms and applications. Reduced BAU timeframes from weeks to minutes.",
-        "Coached teams and lead multiple parallel projects, delivering each with 0 recorded production incidents post release."
+        "Co-Lead transformation in devops tooling, thereby stabilizing applications and enhancing reliability of critical platforms and applications. Reduced BAU timeframes from weeks to minutes."
       ]
     },
     {
@@ -232,8 +230,9 @@ const workExperiences = {
       desc: "Lead the Tooling Squad for DevOps Tooling.",
       descBullets: [
         "Responsible for operational availability of Confluence, Bitbucket, Chef, Artifactory, Xray and Hashicorp Vault.",
-        "Built Documentation and processes for SLA, SLOs and application architecture and maintenance, something that was non existent.",
-        "Designed Architectures and Built applications for various platforms."
+        "Redesigned applications in a cost effective way thereby reducing financial pressure on the org.",
+        "Designed Architectures and Built applications for various platforms.",
+        "Coached teams and lead multiple parallel projects, delivering each with 0 recorded production incidents post release."
       ]
     },
     {
@@ -245,7 +244,8 @@ const workExperiences = {
       descBullets: [
         "Initiated standardization conversations with the business in terms of enhancing application stability.",
         "Curated automated deployment across various platforms and ensure applications are compliant.",
-        "Built highly available applications on vSphere, Kubernetes, Docker including configurations on HSM, with disaster recovery mechanisms."
+        "Built highly available applications on vSphere, Kubernetes, Docker including configurations on HSM, with disaster recovery mechanisms.",
+        "Built Documentation and processes for SLA, SLOs and application architecture and maintenance, something that was non existent."
       ]
     },
     {
