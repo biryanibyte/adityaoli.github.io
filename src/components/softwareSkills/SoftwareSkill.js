@@ -62,8 +62,7 @@ export default function SoftwareSkill() {
                 ) : (
                   <img
                     src={svgIcons[skills.skillName]}
-                    alt={skills.skillName} 
-                    className="software-skill-inline"
+                    alt={skills.skillName}
                   />
                 )}
                 <p>{skills.skillName}</p>
