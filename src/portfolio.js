@@ -213,7 +213,7 @@ const workExperiences = {
     {
       role: "Senior DevSecOps Engineer",
       company: "Westpac New Zealand Limited",
-      companylogo: require("./assets/images/westpac.png"),
+      companylogo: require("./assets/images/w.png"),
       date: "May 2023 – Present",
       desc: "Accountable for different technology operations, and their standardization organization wide.",
       descBullets: [
@@ -227,7 +227,7 @@ const workExperiences = {
     {
       role: "Senior Platform Engineer",
       company: "Westpac New Zealand Limited",
-      companylogo: require("./assets/images/westpac.png"),
+      companylogo: require("./assets/images/w.png"),
       date: "May 2022 – May 2023",
       desc: "Lead the Tooling Squad for DevOps Tooling.",
       descBullets: [
