@@ -10,15 +10,17 @@
 
 .software-skill-inline {
   display: inline-block;
+  margin-right: 30px; /* Increase spacing between icons */
+  margin-bottom: 30px; /* Add spacing below icons */
 }
 
 .software-skill-inline > i,
 .software-skill-inline > img {
-  max-width: 3rem; /* Set a maximum width for icons */
-  max-height: 3rem; /* Set a maximum height for icons */
-  width: auto; /* Allow the width to adjust automatically */
-  height: auto; /* Maintain the aspect ratio */
-  font-size: 3rem; /* Set consistent size for Font Awesome icons */
+  max-width: 4.5rem; /* Increase max width by 50% */
+  max-height: 4.5rem; /* Increase max height by 50% */
+  width: auto; /* Maintain aspect ratio */
+  height: auto; /* Maintain aspect ratio */
+  font-size: 4.5rem; /* Increase font size by 50% for Font Awesome icons */
   color: $subTitle;
   object-fit: contain; /* Ensure the icon fits within the bounds without distortion */
 }
