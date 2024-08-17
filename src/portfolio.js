@@ -213,7 +213,7 @@ const workExperiences = {
     {
       role: "Senior DevSecOps Engineer",
       company: "Westpac New Zealand Limited",
-      companylogo: require("./assets/images/w.png"),
+      companylogo: require("./assets/images/westpac.jpeg"),
       date: "May 2023 – Present",
       desc: "Accountable for different technology operations, and their standardization organization wide.",
       descBullets: [
@@ -227,7 +227,7 @@ const workExperiences = {
     {
       role: "Senior Platform Engineer",
       company: "Westpac New Zealand Limited",
-      companylogo: require("./assets/images/w.png"),
+      companylogo: require("./assets/images/westpac.jpeg"),
       date: "May 2022 – May 2023",
       desc: "Lead the Tooling Squad for DevOps Tooling.",
       descBullets: [
@@ -239,13 +239,61 @@ const workExperiences = {
     {
       role: "Intermediate Platform Engineer",
       company: "Westpac New Zealand Limited",
-      companylogo: require("./assets/images/w.png"),
+      companylogo: require("./assets/images/westpac.jpeg"),
       date: "June 2021 – June 2022",
       desc: "Building resilient Applications and Infrastructure.",
       descBullets: [
         "Initiated standardization conversations with the business in terms of enhancing application stability.",
         "Curated automated deployment across various platforms and ensure applications are compliant.",
         "Built highly available applications on vSphere, Kubernetes, Docker including configurations on HSM, with disaster recovery mechanisms."
+      ]
+    },
+    {
+      role: "DevOps Engineer",
+      company: "Infosys New Zealand Limited",
+      companylogo: require("./assets/images/infosys.jpg"),
+      date: "June 2020 – June 2021",
+      desc: "Develop and Manage Highly available Platforms.",
+      descBullets: [
+        "Develop and execute complex pipelines and infrastructure that is highly reliable, to support consistenly growing telco needs.",
+        "Manage a highly available and performant kubernetes environment.",
+        "Mentor a team to onboard onto new technologies and build better DevOps practices in terms of automations, deployments and documentations."
+      ]
+    },
+    {
+      role: "Kubernetes Subject Matter Expert",
+      company: "Infosys New Zealand Limited",
+      companylogo: require("./assets/images/infosys.jpg"),
+      date: "Feb 2019 – June 2020",
+      desc: "Managed IBM Cloud Private handling complex production workloads",
+      descBullets: [
+          "Architected and implemented scalable Kubernetes clusters across on-premises, Integrated Kubernetes with CI/CD pipelines, automating deployments and reducing downtime for microservices.",
+          "Implemented RBAC, network policies, and secret management, ensuring compliance and securing Kubernetes environments. Set up monitoring with Prometheus and Grafana, optimizing resource usage and improving application performance."
+
+      ]
+    },
+    {
+      role: "DevOps Engineer",
+      company: "Infosys Limited",
+      companylogo: require("./assets/images/infosys.jpg"),
+      date: "June 2020 – June 2021",
+      desc: "Develop and Manage Highly available Platforms.",
+      descBullets: [
+        "Develop and execute complex pipelines and infrastructure that is highly reliable, to support consistenly growing telco needs.",
+        "Manage a highly available and performant kubernetes environment.",
+        "Mentor a team to onboard onto new technologies and build better DevOps practices in terms of automations, deployments and documentations."
+      ]
+    },
+    {
+      role: "DevOps Engineer",
+      company: "Infosys Limited",
+      companylogo: require("./assets/images/infosys.jpg"),
+      date: "June 2020 – June 2021",
+      desc: "Develop and Manage Highly available Platforms.",
+      descBullets: [
+        "Develop and execute complex pipelines and infrastructure that is highly reliable, to support consistenly growing telco needs.",
+        "Manage a highly available and performant kubernetes environment.",
+        "Mentor a team to onboard onto new technologies and build better DevOps practices in terms of automations, deployments and documentations."
       ]
     },
     {
