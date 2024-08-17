@@ -14,8 +14,9 @@
 
 .software-skill-inline > i,
 .software-skill-inline > img {
-  width: 3rem; /* Set consistent width for icons */
-  height: 3rem; /* Set consistent height for icons */
+  width: 100%; /* Adjust width by percentage */
+  height: auto; /* Maintain aspect ratio to avoid compression */
+  max-width: 3rem; /* Set a maximum width for icons */
   font-size: 3rem; /* Set consistent size for Font Awesome icons */
   color: $subTitle;
 }

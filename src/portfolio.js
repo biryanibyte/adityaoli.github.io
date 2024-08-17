@@ -82,7 +82,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
-      skillName: "jenkinsoriginal",
+      skillName: "jenkins",
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
@@ -91,10 +91,6 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "kubernetes",
-      fontAwesomeClassname: "" // Using custom SVG
-    },
-    {
-      skillName: "pipeline",
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
