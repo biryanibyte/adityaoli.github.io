@@ -66,7 +66,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
-      skillName: "awslambda",
+      skillName: "lambda",
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
-      skillName: "helmcolor",
+      skillName: "helm",
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
@@ -110,7 +110,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
-      skillName: "terraformcolor",
+      skillName: "terraform",
       fontAwesomeClassname: "" // Using custom SVG
     },
     {

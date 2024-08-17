@@ -27,10 +27,10 @@ import python from "../../assets/icons/python.png";
 export default function SoftwareSkill() {
   const svgIcons = {
     "artifactory": artifactory,
-    "awslambda":awslambda,
+    "lambda":awslambda,
     "dynatrace":dynatrace,
     "grafana":grafana,
-    "helmcolor":helmcolor,
+    "helm":helmcolor,
     "jenkins":jenkinsoriginal,
     "jfrog":jfrog,
     "kubernetes":kubernetes,
