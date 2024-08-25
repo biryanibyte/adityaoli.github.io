@@ -49,11 +49,14 @@ const skillsSection = {
   subTitle: "CRAZY PLATFORM ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Automate everything that repetitively takes up productive time away from Engineers."
+      "⚡ Curate Platform Architecture and Design for organizations applications and services."
     ),
     emoji("⚡ Standardize Platforms, Tooling and technologies to an optimal fine grain."),
     emoji(
-      "⚡ "
+      "⚡ Provide technical direction and mentorship to engineering teams, guiding them through complex platform-related challenges."
+    ),
+    emoji(
+      "⚡ Ensure the platform is designed for high availability, fault tolerance, and scalability to meet the demands of growing user bases and traffic."
     )
   ],
 
