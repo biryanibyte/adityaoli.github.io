@@ -66,10 +66,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "" // Using custom SVG
     },
     {
-      skillName: "lambda",
-      fontAwesomeClassname: "" // Using custom SVG
-    },
-    {
       skillName: "dynatrace",
       fontAwesomeClassname: "" // Using custom SVG
     },
